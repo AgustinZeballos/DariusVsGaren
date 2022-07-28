@@ -1,0 +1,124 @@
+body {
+    background-image: url(imagenesindex/giphy\ \(1\).gif);
+
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-decoration: underline;
+    font-family: monospace;
+}
+
+
+.formu {
+    margin: 0 auto;
+    width: 450px;
+    background-color: rgb(62, 62, 62);
+    padding: 55px;
+    border-radius: 10px;
+    font-size: 20px;
+    position: relative;
+    top: 80px;
+}
+
+input {
+    border: 0;
+
+
+}
+
+.imput {
+    border: solid 1px;
+    outline: none;
+    padding: 8px;
+
+}
+
+
+
+.imput:focus {
+    border-color: rgb(90, 217, 248);
+}
+
+.center-botons {
+    text-align: center;
+}
+
+.btnverde {
+    color: white;
+    background-color: green;
+    width: 100px;
+    font-size: 30px;
+    border-radius: 10px;
+
+}
+
+.btnrojo {
+    color: white;
+    background-color: red;
+    width: 180px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
+.parrafosub {
+    text-decoration: underline;
+    font-family: monospace;
+    color: white;
+
+}
+
+.parraforsubedad {
+    margin-top: 10px;
+}
+
+
+
+
+.registrocontacto {
+    position: relative;
+    top: 80px;
+
+}
+
+.tabla {
+    margin-top: 50px;
+    caption-side: top;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+
+}
+
+.tdclass {
+    border: 2px solid white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    color: white;
+    font-family: monospace;
+    text-align: center;
+
+}
+
+.thclass {
+    border: 2px solid white;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    color: white;
+    font-family: monospace;
+    background-color: black;
+    text-align: center;
+}
+
+.tdi {
+    color: white;
+    font-family: monospace;
+    font-size: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
